@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550398042790",
+    "project_id": "clonecoding-84099",
+    "storage_bucket": "clonecoding-84099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550398042790:android:fed69fc0cf5e0ca5f3ca67",
+        "android_client_info": {
+          "package_name": "com.example.clonecoding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550398042790-i46q5p75k72hqrvfvnrc3fpoeov6i6r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXP5Gke4NhAmqT2Ebf2nj6acbny-J_7Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550398042790-i46q5p75k72hqrvfvnrc3fpoeov6i6r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
